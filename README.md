@@ -1,11 +1,11 @@
 # Hi, I'm See Jia Jian!
 
-### 🚀 Data Science & Machine Learning Enthusiast
+## Data Science & Machine Learning
 I am currently exploring the intersection of data analysis and machine learning. I enjoy the challenge of taking a raw dataset, uncovering hidden patterns, and building predictive models. I am currently focused on learning how to deploy these models into production to create real-world impact
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn)
 * **Machine Learning:** Supervised Learning, Classification (Random Forest, XGBoost), Model Serialization (Joblib/Pickle)
 * **Data Visualization:** Matplotlib, Seaborn
@@ -13,7 +13,7 @@ I am currently exploring the intersection of data analysis and machine learning.
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 ### [Customer Churn Prediction App](https://github.com/jiajian98/customer-churn-prediction)
 **An end-to-end ML solution to predict customer attrition.**
 * **Problem:** Identifying at-risk customers to improve business retention.
@@ -28,7 +28,7 @@ I am currently exploring the intersection of data analysis and machine learning.
 
 ---
 
-## 📫 How to reach me:
+## How to reach me:
 * **LinkedIn:** [https://www.linkedin.com/in/jia-jian-see-5ab304148/]
 * **Email:** [jjsee75@gmail.com]
 
