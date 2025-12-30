@@ -1,6 +1,6 @@
 ## Hi, I am SEE Jia Jian!
 
-### I am currently pursuing my Master of Data Science & Machine Learning (DSML) at the National University of Singapore (NUS), where I am learning and deepening my expertise in advanced statistical modeling, big data analytics, and machine learning algorithms
+* I am currently pursuing my Master of Data Science & Machine Learning (DSML) at the National University of Singapore (NUS), where I am learning and deepening my expertise in advanced statistical modeling, big data analytics, and machine learning algorithms
 ---
 
 ## Tech Stack
