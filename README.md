@@ -7,7 +7,7 @@ I am exploring the intersection of data analysis and machine learning. I enjoy t
 
 ## Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn)
-* **Machine Learning:** Supervised Learning, Classification (Random Forest, XGBoost), Model Serialization (Joblib/Pickle)
+* **Machine Learning:** Supervised Learning, Classification (Random Forest, XGBoost)
 * **Data Visualization:** Matplotlib, Seaborn
 * **Deployment:** Streamlit
 
