@@ -1,8 +1,6 @@
 # Hi, I am SEE Jia Jian!
 
-## Data Science & Machine Learning
-I am exploring the intersection of data analysis and machine learning. I enjoy the challenge of taking a raw dataset, uncovering hidden patterns, and building predictive models. I am currently focused on learning how to deploy these models into production to create real-world impact
-
+I am currently pursuing my Master of Data Science & Machine Learning (DSML) at the National University of Singapore (NUS), where I am learning and deepening my expertise in advanced statistical modeling, big data analytics, and machine learning algorithms
 ---
 
 ## Tech Stack
